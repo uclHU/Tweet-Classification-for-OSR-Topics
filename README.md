@@ -66,7 +66,7 @@ OSR_BerTopic.ipynb: train BERTopic models with the number of clusters ranging fr
 
 gzip_knn.ipynb: train a model which combines gzip compressor and KNN. The file include an exhaust search on k, with k set to 1 to 8.
 
-zero_shot.ipynb: this file loads a pre-trained deberta model, and evaluates its prediction accuracy using osr_tweets_without_T_U_U_v2.csv and osr_tweets_origin_v2.csv.
+zero_shot.ipynb: this file loads a pre-trained deberta model, and evaluates its prediction accuracy using "osr_tweets_without_T_U_U_v2.csv" and "osr_tweets_origin_v2.csv".
 
 performance_evaluation.ipynb: this file evaluates above fine-tuned models as well as two ensemble models.
 
